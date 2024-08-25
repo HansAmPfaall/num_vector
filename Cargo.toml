@@ -2,7 +2,7 @@
 name = "num_vector"
 version = "0.1.0"
 authors = ["Edgar Justus <EdgarJustus94@gmail.com>"]
-categories = ["mathematics", "vector"]
+categories = ["mathematics", "data-structures"]
 description = "Enabling basic vector arithmetic operations"
 edition = "2021"
 keywords = ["vector", "arithmetic", "math", "vec"]
