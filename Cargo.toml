@@ -16,5 +16,6 @@ keywords = [
 license = "MIT"
 repository = "https://github.com/HansAmPfaall/num_vector"
 rust-version = "1.80.1"
+readme = "README.md"
 
 [dependencies]
