@@ -5,14 +5,7 @@ authors = ["Edgar Justus <EdgarJustus94@gmail.com>"]
 categories = ["mathematics", "vector"]
 description = "Enabling basic vector arithmetic operations"
 edition = "2021"
-keywords = [
-    "vector",
-    "mathematics",
-    "arithmetic",
-    "vector arithmetic",
-    "math",
-    "vec",
-]
+keywords = ["vector", "arithmetic", "math", "vec"]
 license = "MIT"
 repository = "https://github.com/HansAmPfaall/num_vector"
 rust-version = "1.80.1"
